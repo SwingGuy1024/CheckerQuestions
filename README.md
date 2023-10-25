@@ -1,5 +1,6 @@
 ## Checker Framework Questions
-This library provides a simple framework for a swing-based database application.
+This repository provides two minimal test cases for two questions about the 
+Checker Framework for Java.
 ### Building
 
 To build, type `mvn clean install`
